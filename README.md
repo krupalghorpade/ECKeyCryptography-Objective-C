@@ -1,2 +1,2 @@
 # ECKeyCryptography-Objective-C
-This repository demos creation of Public, Private keys and shared secret generation in iOS using Objective-C language
+This repository demos creation of Asymmetric key pair, their shared secret, encryption and decryption of the data in iOS using Objective-C language.
